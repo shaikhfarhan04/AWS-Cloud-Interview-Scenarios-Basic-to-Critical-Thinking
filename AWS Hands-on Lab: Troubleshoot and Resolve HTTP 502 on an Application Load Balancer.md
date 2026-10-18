@@ -394,8 +394,6 @@ To avoid ongoing charges, delete the lab when finished:
 
 Your first milestone: Complete Phases 2–5 and confirm that the website returns `200 OK` through the ALB. Then introduce the failure in Phase 6. This gives you a working baseline, a controlled incident, and a verified resolution rather than simply memorizing troubleshooting commands.
 
-================================================================================
-
 # Diagnosis: AWS ALB returns HTTP 502
 
 Based on your observations, we have a strong initial lead:
